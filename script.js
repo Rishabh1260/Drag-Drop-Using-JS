@@ -2,7 +2,7 @@
 let lists = document.getElementsByClassName("list");
 let rightBox = document.getElementById("right");
 let leftBox = document.getElementById("left");
-let resetBtn = document.querySelector(".pink-btn");
+let resetBtn = document.querySelector(".Reset-btn");
 
 // Variable to store the selected item during dragging
 let selected = null;
